@@ -13,13 +13,14 @@
   <a href="https://www.instagram.com/dl0ps/">
     <img src="https://img.shields.io/badge/Instagram-dl0ps-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://github.com/DavidC430">
-    <img src="https://img.shields.io/github/followers/DavidC430?logo=GitHub&style=for-the-badge">
+  <a href="https://github.com/DavidMartinsCorreia">
+    <img src="https://img.shields.io/github/followers/DavidMartinsCorreia?logo=GitHub&style=for-the-badge">
   </a>
-  <a href="https://github.com/DavidC430">
-    <img src="https://img.shields.io/github/stars/DavidC430?logo=github&style=for-the-badge">
+  <a href="https://github.com/DavidMartinsCorreia">
+    <img src="https://img.shields.io/github/stars/DavidMartinsCorreia?logo=github&style=for-the-badge">
   </a>
 </p>
+
 
 👨‍💻 About me
 
@@ -32,6 +33,7 @@ I enjoy testing, experimenting, and implementing ideas that capture the user’s
 
 <br clear="all">
 
+<br><br>
 🚧 Current project  
 Right now I am developing ideas to add to my portfolio, currently making a website with a fashion theme.  
 Stay tuned to my repositories to see the updates!
@@ -52,8 +54,8 @@ Stay tuned to my repositories to see the updates!
 
 📈 Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DavidC430&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Dl0Ps GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DavidMartinsCorreia&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" alt="Dl0Ps GitHub Stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidC430&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&ring_color=007ec6&fire_color=ce09ec&sideNums=007ec6&sideLabels=a4aacb" alt="Dl0Ps GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DavidMartinsCorreia&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&ring_color=007ec6&fire_color=ce09ec&sideNums=007ec6&sideLabels=a4aacb" alt="Dl0Ps GitHub Streak"/>
 </p>
